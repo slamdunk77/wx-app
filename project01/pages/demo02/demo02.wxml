@@ -1,0 +1,36 @@
+<!--pages/demo02/demo02.wxml-->
+<navigator url="/pages/demo01/demo01">
+  home
+</navigator>
+<button size="mini" type="primary">primary按钮</button>
+<button size="mini" type="primary" loading="true">primary按钮</button>
+<button type="warn">warn按钮</button>
+<button type="warn" plain="true">warn按钮</button>
+
+<button open-type="contact">contact</button>
+<button open-type="share">share</button>
+<button open-type="getPhoneNumber" bindgetphonenumber="getPhoneNumber">getPhoneNumber</button>
+<button open-type="getUserInfo" bindgetuserinfo="getUserInfo">getUserInfo</button>
+<button open-type="launchApp">launchApp</button>
+<button open-type="openSetting">openSetting</button>
+<button open-type="feedback">feedback</button>
+<icon class="" type="success" size="23" color=""></icon>
+<!--给radio-group绑定事件bindchange-->
+<radio-group bindchange="handleChange">
+  <radio value="male">男</radio>
+  <radio value="female">女</radio>
+</radio-group>
+<view>
+  您选中的是：{{gender}}
+</view>
+<view>
+  <checkbox-group bindchange="handleItemChange">
+    <checkbox value="{{item.name}}" wx:for="{{list}}" wx:key="id">
+      {{item.name}}
+    </checkbox>
+  </checkbox-group>
+</view>
+<view>
+  选中的水果：{{checkList}}
+</view>
+  

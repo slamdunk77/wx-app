@@ -1,0 +1,38 @@
+<!--pages/mine/mine.wxml-->
+<view>{{msg}}</view>
+<view>{{num}}</view>
+<view>{{isRight}}</view>
+<view>{{person.age}}</view>
+<!--在标签的属性中使用-->
+<view data-num="{{num}}">自定义属性</view>
+
+<!--使用-->
+<view>
+    <checkbox checked="{{isChecked}}"></checkbox>
+</view>
+
+<!--列表循环-->
+<view>
+  <view wx:for="{{list}}" wx:for-item="item" wx:for-index="index">
+    索引：{{index}}
+    值：{{item.name}}
+  </view>
+</view>
+
+<!--对象循环-->
+<!--<view>
+  <view wx:for="{{list}}" wx:for-item="item" wx:for-index="index">
+    索引：{{index}}
+    值：{{item.name}}
+  </view>
+</view>-->
+
+<!--条件渲染-->
+<view>
+  <view wx:if="{{true}}">显示</view>
+  <view wx:if="{{false}}">隐藏</view>
+</view>
+
+<view hidden>hidden1</view>
+<view hidden="{{true}}">hidden2</view>
+<view hidden="{{false}}">hidden3</view>

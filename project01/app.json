@@ -1,0 +1,47 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/demo04/demo04",
+    "pages/demo03/demo03",
+    "pages/demo02/demo02",
+    "pages/demo01/demo01",
+    "pages/order/order", 
+    "pages/mine/mine"
+  ],
+  "window":{
+    "backgroundColor": "#AAA",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#FF9F00",
+    "navigationBarTitleText": "北航交易市场",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh":true,
+    "pageOrientation": "auto"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "HOME",
+      "iconPath": "icon/home.png",
+      "selectedIconPath": "icon/_home.png"
+    },
+    {
+      "pagePath": "pages/order/order",
+      "text": "ORDER",
+      "iconPath": "icon/order.png",
+      "selectedIconPath": "icon/_order.png"
+    },
+    {
+      "pagePath": "pages/mine/mine",
+      "text": "MINE",
+      "iconPath": "icon/mine.png",
+      "selectedIconPath": "icon/_mine.png"
+    }
+  ],
+  "color":"#777",
+  "selectedColor":"#FF5600",
+  "position":"bottom",
+  "borderStyle":"black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

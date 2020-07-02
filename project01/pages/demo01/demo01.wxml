@@ -1,0 +1,16 @@
+<!--pages/demo01/demo01.wxml-->
+<view>rpx</view>
+<!-- 长按文字复制selectable-->
+<text selectable>cxycxycxy1</text>
+<!-- 空格等字符编码解码-->
+<text decode>cxycxycxy2 &nbsp;</text>
+<!-- 轮播图-->
+<swiper autoplay interval="3000" circular indicator-dots indicator-active-color="#fff">
+    <swiper-item>
+        <image src="https://aecpm.alicdn.com/simba/img/TB1X6uHLVXXXXcCXVXXSutbFXXX.jpg"/> 
+    </swiper-item>
+    <swiper-item>
+        <image src="https://aecpm.alicdn.com/simba/img/TB13xKuLVXXXXcHapXXSutbFXXX.jpg"/> 
+    </swiper-item>
+</swiper> 
+  
