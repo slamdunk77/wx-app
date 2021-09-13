@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T06:55:16.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="15.2.1" etag="5tmEq4hUwSc80dBssZyQ" type="github"><diagram id="gWVW7U4BlOD7X6rQREPC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-13T07:04:34.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="XNRxkSwF9f-BRqjzMzcY" version="15.2.1" type="github">
+  <diagram id="gWVW7U4BlOD7X6rQREPC" name="Page-1">
+    <mxGraphModel dx="782" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="68nxVT-4JDCDdprIg50F-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;主要工作&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="68nxVT-4JDCDdprIg50F-4" value="&lt;font style=&quot;font-size: 13px ; line-height: 140%&quot;&gt;对老师或者学生进行采访&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68nxVT-4JDCDdprIg50F-7" value="&lt;font style=&quot;font-size: 13px&quot;&gt;活动的拍摄和录像&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68nxVT-4JDCDdprIg50F-8" value="&lt;font style=&quot;font-size: 13px&quot;&gt;发布活动新闻稿件&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68nxVT-4JDCDdprIg50F-9" value="&lt;font style=&quot;font-size: 13px ; line-height: 140%&quot;&gt;整理和编辑活动的照片和视频&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68nxVT-4JDCDdprIg50F-10" value="&lt;font style=&quot;font-size: 13px&quot;&gt;管理微信公众平台&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68nxVT-4JDCDdprIg50F-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;strokeColor=#0066CC;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="152.5" width="30" height="335" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
